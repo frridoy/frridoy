@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Raziur's profile!
+  Welcome to Ridoy's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,11 +11,11 @@
 ## I'm a Student, and Full-Stack Software Developer !!
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently building on Blockchain Space
+- 🌱 I’m currently building on Web Space
 - 🥅 Goals: To be a Top Class Software Engineer
-- ⚡ Fun fact: I love biking & traveling
-- 📫 Email: raziur.rahaman.ronju@gmai.com
-- 🌐 Portfolio: [visit](https://raziur.me)
+- ⚡ Fun fact: I love traveling
+- 📫 Email: foyzur.r.h@gmai.com
+
 
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -31,10 +31,10 @@
 
 
 ### Connect with me:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Raziur306)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziur-rahaman/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frridoy)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frridoy/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/raziur.rahaman01)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raziur.rahaman.ronju@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:foyzur.r.h@gmail.com)
 
 
 <br />
@@ -66,12 +66,11 @@
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
 ---
-[twitter]: https://twitter.com/RaziurRahaman01 
-[facebook]: https://fb.com/raziur.rahman01
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
+[facebook]: https://www.facebook.com/F.R.Hridoy/
+[linkedin]: https://www.linkedin.com/in/frridoy/
 
 
  
 
-[![Raziur's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Raziur306&custom_title=Raziur's%20Contribution%20Graph&theme=github-compact)](https://www.linkedin.com/in/raziur-rahaman)
+[![Raziur's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=frridoy&custom_title=Ridoy's%20Contribution%20Graph&theme=github-compact)](https://www.linkedin.com/in/frridoy/)
