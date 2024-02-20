@@ -74,8 +74,6 @@
   <img alt="XAMPP (MySQL)" src="https://img.shields.io/badge/XAMPP%20-MySQL-F37623.svg?logo=mysql&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/frridoy"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="Express.js" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-
 ---
 
 [facebook]: https://www.facebook.com/F.R.Hridoy/
