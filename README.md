@@ -15,7 +15,7 @@
 - 🌱 I’m currently building on Web Space
 - 🥅 Goals: To be a Top Class Software Engineer
 - ⚡ Fun fact: I love traveling
-- 📫 Email: foyzur.r.h@gmai.com
+- 📫 Email: foyzur.r.h@gmail.com
 
 
 
@@ -34,7 +34,6 @@
 ### Connect with me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frridoy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frridoy/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/raziur.rahaman01)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:foyzur.r.h@gmail.com)
 
 
@@ -43,18 +42,27 @@
 ### 👨‍💻 Programming Languages & Frameworks
 
 
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?&logo=rust&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/frridoy"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/frridoy"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/frridoy"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/frridoy">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120.svg?logo=html5&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/frridoy">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/frridoy">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/frridoy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/frridoy">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/frridoy">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/frridoy"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
 
 ### 💻 Software, Tools & Database
 
