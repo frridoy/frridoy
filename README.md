@@ -9,6 +9,7 @@
 
 
 ## I'm a Student, and Full-Stack Software Developer !!
+ <img src="https://komarev.com/ghpvc/?username=frridoy&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> 
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently building on Web Space
