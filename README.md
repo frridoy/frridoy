@@ -37,9 +37,9 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 <a href="https://www.linkedin.com/in/frridoy"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
 
 #### Software, Tools & Databases
-<a href="https://www.linkedin.com/in/frridoy"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/frridoy"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/frridoy"><img alt="XAMPP (MySQL)" src="https://img.shields.io/badge/XAMPP%20-MySQL-F37623.svg?logo=mysql&logoColor=white"></a>
+<a href="https://www.laragon.org/"><img alt="Laragon" src="https://img.shields.io/badge/Laragon-MySQL-F37623.svg?logo=mysql&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/frridoy"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 ---
