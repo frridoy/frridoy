@@ -29,8 +29,6 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 
 ### 👨‍💻 Technologies and Tools
 
-### Technical Skills
-
 #### Programming Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](your-link)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](your-link)
