@@ -30,23 +30,23 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 ### 👨‍💻 Technologies and Tools
 
 #### Web Fundamentals (HTML/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 #### Programming Languages
-[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&)]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](your-link)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 #### Frontend Frameworks & Libraries
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)]
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)]
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)]
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
 #### Backend & Databases
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)]
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)]
-[![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)]
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 ---
 
