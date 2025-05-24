@@ -18,7 +18,6 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 - ⚡ Fun fact: I love to travel
 - 📫 Email: foyzur.r.h@gmail.com
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Connect with Me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frridoy)
