@@ -24,7 +24,6 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/frridoy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:foyzur.r.h@gmail.com)
 
-<br />
 
 ### 👨‍💻 Technologies and Tools
 
@@ -34,8 +33,8 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&)
 
 #### Frontend Frameworks & Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
