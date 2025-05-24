@@ -29,18 +29,20 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 
 ### 👨‍💻 Technologies and Tools
 
-#### Programming Languages & Frameworks
-<a href="https://www.linkedin.com/in/frridoy"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120.svg?logo=html5&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
 
-#### Software, Tools & Databases
-<a href="https://www.linkedin.com/in/frridoy"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="XAMPP (MySQL)" src="https://img.shields.io/badge/XAMPP%20-MySQL-F37623.svg?logo=mysql&logoColor=white"></a>
-<a href="https://www.laragon.org/"><img alt="Laragon" src="https://img.shields.io/badge/Laragon-MySQL-F37623.svg?logo=mysql&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/frridoy"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+#### Programming Languages & Frameworks
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://www.linkedin.com/in/frridoy)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.linkedin.com/in/frridoy)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.linkedin.com/in/frridoy)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.linkedin.com/in/frridoy)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://www.linkedin.com/in/frridoy)
+
+#### Development Tools & Databases
+[![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)](https://www.linkedin.com/in/frridoy)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.linkedin.com/in/frridoy)
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)](https://www.apachefriends.org/)
+[![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white)](https://laragon.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://www.linkedin.com/in/frridoy)
 
 ---
 
