@@ -32,20 +32,33 @@ I am a Full-Stack Software Developer with a strong focus on web development. I a
 
 ### Technical Skills
 
-#### Core Web Technologies
+### Technical Skills
+
+#### Core Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](your-link)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](your-link)
 
-#### CSS Frameworks
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](your-link)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](your-link)
-
 #### Programming Languages
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](your-link)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](your-link)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](your-link)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](your-link)
 
-#### Frameworks
+#### Frontend Technologies
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](your-link)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](your-link)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](your-link)
+
+#### Backend & Databases
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](your-link)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](your-link)
+[![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)](your-link)
+
+#### Development Tools
+[![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)](your-link)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](your-link)
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)](your-link)
+[![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white)](your-link)
 
 ---
 
